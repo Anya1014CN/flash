@@ -133,7 +133,7 @@
     </v-content>
 
     <footer>
-      Copyright &copy; 2020 MoKee Open Source Project
+      Copyright &copy; 2020 MoKee Open Source Project,Modified by Anya1014 | <a href="https://github.com/Anya1014CN/flash">Github</a>
     </footer>
 
   </v-app>
